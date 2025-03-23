@@ -30,3 +30,11 @@ Most rental platforms let you search by neighborhood or city. But what if you're
 cd riding-rentals
 python scraperrental_scraper.py --riding Carleton
 ```
+
+### License
+
+The code in this project is licensed under the MIT License.
+
+However, the idea, branding, and concept (“Riding Rentals”) remain the sole intellectual property of Nicolas Levesque © 2024.
+
+Any commercial reuse or derivative application of the concept without written permission is prohibited.
